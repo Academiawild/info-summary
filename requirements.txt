@@ -1,0 +1,7 @@
+yt-dlp[default]==2026.8.19
+python-docx==1.2.0
+faster-whisper==1.2.1
+imageio-ffmpeg==0.6.0
+opencc-python-reimplemented==0.1.7
+webvtt-py==0.5.1
+httpx[socks]==0.28.1

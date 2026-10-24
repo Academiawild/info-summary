@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.info_summary/
+venv/
+env/
+ENV/
+
+# Build and test output
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Local configuration and credentials
+.env
+.env.*
+local_config.py
+# Personal input lists and local source material
+/data/
+cookies.txt
+
+# Generated media/transcript artifacts
+outputs/
+work/
+temp/
+tmp/
+*.log
+*.docx
+阅读报告.html
+*.zip
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.flac
+*.ogg
+*.opus
+*.wma
+*.m4b
+*.amr
+*.webm
+*.mp4
+*.mkv
+
+# Local tools and OS/editor files
+yt-dlp.exe
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
+
+# Packaging build artifacts (no platform source is ignored here)
+*.spec
+*.app/
+__pypackages__/
